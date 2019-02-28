@@ -1,5 +1,7 @@
 # p-truthy-race
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/Jesse-Cameron/p-truthy-race.svg)](https://greenkeeper.io/)
+
 This is a small utility function that does some nifty promise logic.
 
 The goal is to race a collection of promises against one another and return the first to resolve true against a evaluator function.
